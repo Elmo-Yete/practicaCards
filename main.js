@@ -1162,11 +1162,6 @@ const createList = (usersArray) => {
   })
 }
 
-
-
-
-
-
 const createImgSrc = (user) => {
     let imgContainer = document.createElement("img"); 
     imgContainer.classList.add("card-img-top,w-100");
